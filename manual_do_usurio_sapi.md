@@ -39,7 +39,7 @@ Aparecerá uma janela pedindo permissão para instalar um software de um fabrica
 Essa janela aparece pois trata-se de um software de telefonia que precisa de permissões específicas para  executar. O antivírus pode apresentar alguma mensagem de restrição, se isso acontecer, inclua a aplicação na lista de exclusão.<br />
 
 Quando aparecer a tela de boas vindas da aplicação você poderá dar procedimento a instalação.<br />
-![2](C:\Users\Inova\Downloads\instalação.png)
+![](C:\Users\Inova\Downloads\instalação.png)
 
     	A instalação é muito simples, só seguir clicando no botão para avançar. <br />
        Algumas telas irão abrir e fechar, isso acontece pois algumas bibliotecas estão sendo instaladas.<br />
