@@ -5,19 +5,19 @@ O SAPI tem como objetivo interligar via internet, através de um softphone a com
 
 Veja https://d1dhq20wfwcc9q.cloudfront.net/igesdf/SAPi/STABLE.htm para detalhes.
 
-#Recursos
+# Recursos
 
-*Login, logoff
-*Exibição de status de comunicação
-*Fila de atendimento
-*Prioridade de atendimento de ligações
+* Login, logoff
+* Exibição de status de comunicação
+* Fila de atendimento
+* Prioridade de atendimento de ligações
 *ligação de áudio
-*Ligação de vídeo 
-*Preenchimento de formulários e vinculação com ligações
-*Ligação em espera
+* Ligação de vídeo 
+* Preenchimento de formulários e vinculação com ligações
+* Ligação em espera
 
 #Segurança
-*Monitoramento automático de atendimento a normas de segurança.
+* Monitoramento automático de atendimento a normas de segurança.
 A aplicação já é criada para suprir necessidades técnicas da LGPD, PCI-DSS, ISO 27001.
 
 
