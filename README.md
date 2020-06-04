@@ -16,7 +16,7 @@ Veja https://d1dhq20wfwcc9q.cloudfront.net/igesdf/SAPi/STABLE.htm para detalhes.
 * Preenchimento de formulários e vinculação com ligações
 * Ligação em espera
 
-#Segurança
+# Segurança
 * Monitoramento automático de atendimento a normas de segurança.
 A aplicação já é criada para suprir necessidades técnicas da LGPD, PCI-DSS, ISO 27001.
 
