@@ -11,7 +11,7 @@ Veja https://d1dhq20wfwcc9q.cloudfront.net/igesdf/SAPi/STABLE.htm para detalhes.
 * Exibição de status de comunicação
 * Fila de atendimento
 * Prioridade de atendimento de ligações
-*ligação de áudio
+* ligação de áudio
 * Ligação de vídeo 
 * Preenchimento de formulários e vinculação com ligações
 * Ligação em espera
