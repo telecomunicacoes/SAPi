@@ -24,7 +24,7 @@ https://github.com/telecomunicacoes/SAPi/wiki/Documenta%C3%A7%C3%A3o
 A aplicação já é criada para suprir necessidades técnicas da LGPD, PCI-DSS, ISO 27001.
 
 # FAQ
-Link com perguntas frequentes disponível em https://github.com/telecomunicacoes/SAPi/wiki/FAQ
+Link com perguntas frequentes disponível em: https://github.com/telecomunicacoes/SAPi/wiki/FAQ
 
 
 
